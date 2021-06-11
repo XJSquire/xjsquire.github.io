@@ -20,11 +20,12 @@
      #topnav ul li {
      display:inline-block;
      }
-     #topnav a {
+#topnav a {
     font-size: 14px;
+    border-bottom: 3px solid;
     color: #fff;
     text-decoration: none;
-           padding: 14px;
+    padding: 13px;
 }
      #topnav i {
     font-size: 18px;
