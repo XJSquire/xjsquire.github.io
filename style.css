@@ -44,17 +44,17 @@
     border-radius: 0 0 30px 5px;
     border-top: 10px solid #73a950;
 }
-
 #footer {
-    min-height: 10vh;
+    /* min-height: 7vh; */
     margin: 0;
-    background: linear-gradient(
+    background: linear-gradient( 
 166deg
-, rgba(51,54,56,1) 59%, rgba(56,59,62,1) 59%);
+ , rgba(51,54,56,1) 59%, rgba(56,59,62,1) 59%);
     position: relative;
     bottom: 0px;
-    padding: 1rem 4%;
+    padding: 3rem 4%;
+    text-align: center;
+    font-size: 15px;
     margin-top: 6rem;
     color: #fff;
-  text-align:center;
 }
