@@ -22,7 +22,6 @@
      }
 #topnav a {
     font-size: 14px;
-    border-bottom: 3px solid #ebaa20;
     color: #fff;
     text-decoration: none;
     padding: 13px;
@@ -35,6 +34,7 @@
      #topnav a:hover {
     background: #333333;
     color: #ebaa20;
+    border-bottom: 3px solid #ebaa20;
 }
 #content {
     min-height: 60vh;
