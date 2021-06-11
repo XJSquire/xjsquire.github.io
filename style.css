@@ -46,9 +46,14 @@
 }
 
 #footer {
-  min-height:20vh;
-  margin:0;
-  width:100%;
-background: rgb(51,54,56);
-background: linear-gradient(166deg, rgba(51,54,56,1) 59%, rgba(56,59,62,1) 59%);
+    min-height: 7vh;
+    margin: 0;
+    background: linear-gradient(
+166deg
+, rgba(51,54,56,1) 59%, rgba(56,59,62,1) 59%);
+    position: relative;
+    bottom: 0px;
+    padding: 1rem 4%;
+    margin-top: 6rem;
+    color: #fff;
 }
