@@ -1,8 +1,8 @@
   body {
     font-family: sans-serif;
     scroll-behavior: smooth;
-       margin:0;
-       background:#666;
+       margin:0; 
+    background: #f6f6f6;
 }
 #topnav {
     padding: 1px 0 1px 30px;
@@ -36,13 +36,12 @@
 }
 #content {
     min-height: 60vh;
-    background: #f6f6f6;
+   
     padding: 20px 2%;
     max-width: 65%;
     width: 100%;
     margin: 25px auto;
     border-radius: 0 0 30px 5px;
-    border-top: 10px solid #73a950;
 }
 #footer {
     /* min-height: 7vh; */
