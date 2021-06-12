@@ -107,4 +107,8 @@ h1 {
   }
   #content{    
     max-width: 92%;} 
+#content p {
+    font-size: 1rem;
 }
+
+
