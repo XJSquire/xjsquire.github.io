@@ -67,10 +67,19 @@ h1 {
     border-left: 14px solid #ebaa20;
     color: #fff;
 }
+#content h2 {
+  font-size:1.8rem;
+  padding:1em 0;
+}
 #content h3 {
     font-size: 1.5rem;
     font-weight: unset;
     line-height: 30px;
+}
+h4 {
+    font-weight: 100;
+    font-style: italic;
+    color: #666;
 }
 #content p {
     font-size: 1.3rem;
@@ -78,6 +87,9 @@ h1 {
     color: #444;
 }
 
+div#graphicdesign {
+    padding: 5em 0;
+}
 
 
 
