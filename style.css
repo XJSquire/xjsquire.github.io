@@ -80,6 +80,7 @@ h4 {
     font-weight: 100;
     font-style: italic;
     color: #666;
+    margin-top: -20px;
 }
 #content p {
     font-size: 1.3rem;
@@ -88,7 +89,7 @@ h4 {
 }
 
 div#graphicdesign {
-    padding: 5em 0;
+
 }
 
 
