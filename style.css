@@ -73,7 +73,7 @@ h1 {
 #content h3 {
     font-size: 1.5rem;
     font-weight: unset;
-    line-height: 30px;
+    line-height: 35px;
 }
 h4 {
     font-weight: 100;
@@ -83,8 +83,8 @@ h4 {
 }
 #content p {
     font-size: 1.3rem;
-    line-height: 27px;
-    color: #444;
+        line-height: 35px;
+    color: #555;
 }
 
 div#graphicdesign {
