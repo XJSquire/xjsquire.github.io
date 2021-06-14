@@ -8,10 +8,20 @@ body {
     color: #333;
     background: #f6f6f6;
 }
+div#sidebar {
+    width: 25%;
+    background: #aba9a9;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    padding: 5% 2%;
+}
 #topnav {
     padding: 1px 0 1px 30px;
     background: #222;
     color: #58595b;
+      z-index: 999;
     position: sticky;
     margin-left: auto;
     top: 0;
@@ -126,7 +136,8 @@ padding:4em 0;
 }
 }
 @media screen and (min-width: 1100px) {
-  #content{
-    max-width: 65%;
-  }
+#content {
+    max-width: 70%;
+    float: right;
+}
 }
