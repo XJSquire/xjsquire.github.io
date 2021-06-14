@@ -139,6 +139,13 @@ padding:4em 0;
   #content{    
     max-width: 92%;
   } 
+  div#sidebar img {
+    display: block;
+    width: 100%;
+    max-width: 250px;
+    float: initial;
+    margin: 0 auto;
+}
 #content p {
     font-size: 1rem;
 }
