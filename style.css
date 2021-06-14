@@ -14,6 +14,15 @@ width: auto;
     position: relative;
     height: 100%;
     padding: 2em 5%;
+  width: auto;
+    background: #aba9a9;
+    position: relative;
+    background: rgb(255,255,255);
+    background: linear-gradient(
+169deg
+, rgba(255,255,255,1) 32%, rgba(237,237,237,1) 32%);
+    height: 100%;
+    padding: 2em 5%;
 }
 
 div#sidebar img {
@@ -162,7 +171,6 @@ padding:4em 0;
   div#sidebar {
  
     width: 25%;
-    background: #aba9a9;
     position: fixed;
     left: 0;
     top: 0;
