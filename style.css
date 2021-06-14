@@ -155,6 +155,10 @@ padding:4em 0;
     max-width: 65%;
     float: right;
 }
+  h1 {
+    width: 65%;
+    float: right;
+}
   div#sidebar {
  
     width: 25%;
