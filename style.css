@@ -9,14 +9,21 @@ body {
     background: #f6f6f6;
 }
 div#sidebar {
-    width: 25%;
+width: auto;
     background: #aba9a9;
-    position: fixed;
-    left: 0;
-    top: 0;
+    position: relative;
     height: 100%;
-    padding: 5% 2%;
+    padding: 2em 5%;
 }
+
+div#sidebar img {
+    float: left;
+    border-radius: 100%;
+    margin-left: -20px;
+    margin-right: 40px;
+}
+
+
 #topnav {
     padding: 1px 0 1px 30px;
     background: #222;
@@ -140,5 +147,15 @@ padding:4em 0;
 #content {
     max-width: 65%;
     float: right;
+}
+  div#sidebar {
+ 
+    width: 25%;
+    background: #aba9a9;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    padding: 5% 2%;
 }
 }
