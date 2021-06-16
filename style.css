@@ -68,8 +68,7 @@ div#sidebar img {
 }
 #content {
     min-height: 60vh;
-   
-    padding: 0 2%;
+    padding: 0 3%;
     width: 95%;
     margin: 0  auto;
     border-radius: 0 0 30px 5px;
